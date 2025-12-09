@@ -17,6 +17,6 @@ Assets/Scenes/WackDonalds.unity
 
 Press Play
 
-[TimeTableViggaSkriver.docx](https://github.com/user-attachments/files/24047467/TimeTableViggaSkriver.docx)
+[TimeTableViggaSkriver (1).docx](https://github.com/user-attachments/files/24055676/TimeTableViggaSkriver.1.docx)
 
 <img width="595" height="842" alt="WackDonaldsPoster" src="https://github.com/user-attachments/assets/824daf95-d46c-4e8b-99b4-e7c8e1eece7e" />
